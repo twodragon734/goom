@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cursebook",
+  "version": "${version}",
+  "name": "Curse Book",
+  "description": "A multiplayer curse book for Fabric 1.21.1.",
+  "authors": ["Forgebox"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.forgebox.cursebook.CurseBook"],
+    "client": ["com.forgebox.cursebook.CurseBookClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

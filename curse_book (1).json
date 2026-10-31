@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GPG", "PBP", "GPG"],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "P": "minecraft:paper",
+    "B": "minecraft:book"
+  },
+  "result": {
+    "id": "cursebook:curse_book",
+    "count": 1
+  }
+}

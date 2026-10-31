@@ -1,0 +1,8 @@
+{
+  "item.cursebook.curse_book": "Curse Book",
+  "itemGroup.cursebook": "Curse Book",
+  "screen.cursebook.title": "Choose a curse",
+  "screen.cursebook.target": "Choose a player",
+  "screen.cursebook.none": "No other players are currently loaded",
+  "cursebook.curse_book.help": "Right-click to choose a curse and a player"
+}
